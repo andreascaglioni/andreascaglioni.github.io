@@ -1,14 +1,12 @@
 # Andrea Scaglioni
-- **Email:** andrea.c.scaglioni [at] gmail.com
+- **Email:** andrea.c.scaglioni+hello [at] gmail.com
 - **Address:** Vienna, Austria
 
 ## Education
 
 - **PhD in Computational Mathematics** - TU Vienna, ongoing <br>
   Project: *Numerical simulation of stochastic dynamic micromagnetics*
-
 - **MS in Computational Science and Engineering** - EPFL, GPA 5.37/6, 2019
-
 - **BS in Mathematics** - University of Trento, 30 cum laude, 2016
 
 ## Skills
